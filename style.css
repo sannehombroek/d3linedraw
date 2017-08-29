@@ -1,0 +1,25 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  color: #333;
+}
+rect {
+  fill: steelblue;
+}
+rect:hover {
+  fill: orange;
+}
+text {
+  text-anchor: end;
+}
+  circle { fill: grey}
+#enters div {
+	display: inline-block;
+	margin: 10px;
+	background-color: orange;
+	color: white;
+	padding: 30px;
+	width: 10px;
+	height: 10px;
+	text-align: center;
+}
